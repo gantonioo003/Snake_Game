@@ -21,4 +21,14 @@ Este é um clone simples do clássico jogo Snake, onde o jogador controla uma co
 ## Compilar e Executar
 1. Clone este repositório para o seu ambiente de desenvolvimento local.
 2. Navegue até o diretório do projeto.
-3. Compile o código-fonte utilizando o seguinte comando:
+3. Compile o código-fonte utilizando o seguinte comando:gcc -o snake_game main.c -lncurses
+4. Execute o jogo com o seguinte comando:./snake_game
+
+
+## Contribuindo
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues caso encontre algum bug ou tenha alguma sugestão de melhoria. Se desejar contribuir com código, por favor, abra um pull request.
+
+## Autor
+Este jogo foi desenvolvido por Gabriel Antônio e João Sampaio.
+
+
